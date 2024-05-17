@@ -1,0 +1,9 @@
+table{
+    border-spacing: 5px;
+    display: block;
+    font-size: 2rem;
+}
+
+td, th{
+    padding: 5px 10px;
+}
